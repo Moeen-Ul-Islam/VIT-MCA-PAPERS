@@ -3,7 +3,7 @@
 - During my MCA I couldn't find a single previous year paper for my
 reference, so here I am adding papers for the courses offered to MCA students.
 
--Assignments are being added as well
+- Assignments are being added as well
 
 ## Contribution
 
